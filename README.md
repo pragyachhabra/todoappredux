@@ -1,1 +1,3 @@
 # todoappredux
+
+npm run dev
