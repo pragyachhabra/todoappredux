@@ -1,3 +1,3 @@
 # todoappredux
 
-npm run dev
+Start npm run dev
